@@ -1,0 +1,9 @@
+This directory contains image assets for the portfolio website:
+
+1. profile.png - Profile picture for the hero section
+2. project1.jpg - Thumbnail for E-commerce Platform project
+3. project2.jpg - Thumbnail for Task Management App project
+4. project3.jpg - Thumbnail for Social Media Dashboard project
+4. resume.pdf - Downloadable resume file
+
+Please replace these placeholder files with actual images and PDF for a complete portfolio.
